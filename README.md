@@ -13,7 +13,7 @@ It takes the OpenClaw skill corpus and rewrites it into a Claude-compatible mark
 Add this marketplace in Claude with:
 
 ```text
-/plugin marketplace add dvcrn/openclaw-skills-marketplace
+/plugin marketplace add syphrpunk/claw2claude
 ```
 
 Then install any generated plugin from the marketplace:

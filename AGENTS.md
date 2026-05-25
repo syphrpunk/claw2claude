@@ -1,4 +1,4 @@
-- Repo: <owner>/openclaw-claude-skills-marketplace
+- Repo: syphrpunk/claw2claude
 
 # Marketplace Structure
 
